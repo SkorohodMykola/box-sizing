@@ -1,0 +1,26 @@
+html {
+    background-color: #E5E5E5;
+}
+li {
+    width: 130px;
+    height: 130px;
+    top: -320px;
+    left: -297px;
+    padding:0 35px 96px 35px;
+    margin: 30px;
+    background-color: #c4c4c4;
+}
+ul li {
+    display: inline-block;
+    text-align: center;
+}
+img {
+    width: 130px;
+    height: 130px;
+}
+li h2,p {
+    margin:4px 0;
+}
+div {
+    margin:50px 500px;
+}
